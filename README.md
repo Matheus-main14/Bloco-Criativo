@@ -8,7 +8,7 @@ O objetivo do projeto foi desenvolver um site como forma de aprendizado, colocan
 
 ---
 
-# 📖 Sobre o projeto
+ Sobre o projeto
 
 A Bloco Criativo é um site que simula uma loja virtual de produtos artesanais.
 
@@ -22,9 +22,9 @@ O usuário pode:
 
 ---
 
-# 🖥️ Páginas do projeto
+ Páginas do projeto
 
-## 🏠 Página Inicial
+ Página Inicial
 
 A página inicial apresenta o projeto e oferece acesso rápido às demais áreas do site.
 
@@ -66,7 +66,7 @@ Nela o usuário encontra:
 
 ---
 
-# 📂 Estrutura do projeto
+ Estrutura do projeto
 
 ```
 Bloco-Criativo
@@ -93,7 +93,7 @@ Bloco-Criativo
 
 ---
 
-# 🚀 Tecnologias utilizadas
+ Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -257,7 +257,7 @@ shadow-sm
 
 ---
 
-# 🎯 Objetivos alcançados
+ Objetivos alcançados
 
 Durante o projeto foi possível aplicar diversos conteúdos vistos em sala de aula, como:
 
@@ -272,7 +272,7 @@ Durante o projeto foi possível aplicar diversos conteúdos vistos em sala de au
 
 ---
 
-# 👨‍💻 Desenvolvedores
+ Desenvolvedores
 
 Projeto desenvolvido por:
 
